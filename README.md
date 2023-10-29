@@ -35,7 +35,7 @@ El proyecto utiliza las siguientes tecnologías:
 - HTML5 y CSS3 para la estructura y diseño del sitio web.
 - JavaScript para la funcionalidad interactiva del menú de navegación.
 - [Formspree](https://formspree.io/) para el manejo del formulario de contacto.
--Formulario con API en SheetDB
+- Formulario con API en SheetDB
 
 ## Autor
 

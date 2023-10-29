@@ -8,7 +8,6 @@ Bienvenido al repositorio de la web de Carolina Celeste Fotografía. Este proyec
 - [Uso](#uso)
 - [Tecnologías Utilizadas](#tecnologías-utilizadas)
 - [Autor](#autor)
-- [Licencia](#licencia)
 
 ## Descripción
 

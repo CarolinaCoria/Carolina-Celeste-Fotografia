@@ -73,3 +73,17 @@ Este proyecto fue desarrollado por Carolina Coria
 ## Autor
 
 Este proyecto fue desarrollado por Carolina Coria
+
+## Grupo11
+
+Eugenia Aylén Lorences
+eugelorences@gmail.com
+
+Evangelina Weidele
+eweidele@gmail.com
+
+María Paz Mario
+mariapazmario@gmail.com
+
+Carolina Celeste Coria
+coriacarolina@gmail.com

@@ -67,12 +67,6 @@ El proyecto utiliza las siguientes tecnologías:
 ## Autor
 
 Este proyecto fue desarrollado por Carolina Coria
-- [Formspree](https://formspree.io/) para el manejo del formulario de contacto.
-- Formulario con API en SheetDB
-
-## Autor
-
-Este proyecto fue desarrollado por Carolina Coria
 
 ## Grupo11
 

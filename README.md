@@ -67,11 +67,3 @@ El proyecto utiliza las siguientes tecnologías:
 ## Autor
 
 Este proyecto fue desarrollado por Carolina Coria
-
-
-
-María Paz Mario
-mariapazmario@gmail.com
-
-Carolina Celeste Coria
-coriacarolina@gmail.com

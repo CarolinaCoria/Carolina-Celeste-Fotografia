@@ -68,13 +68,7 @@ El proyecto utiliza las siguientes tecnologías:
 
 Este proyecto fue desarrollado por Carolina Coria
 
-## Grupo11
 
-Eugenia Aylén Lorences
-eugelorences@gmail.com
-
-Evangelina Weidele
-eweidele@gmail.com
 
 María Paz Mario
 mariapazmario@gmail.com
